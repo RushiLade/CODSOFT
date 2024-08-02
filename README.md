@@ -23,6 +23,27 @@ Throughout my internship at CodSoft, I've been challenged with a variety of enga
 Below is the list of tasks I have completed as part of this internship:
 
 
+**Chatbot with Rule-Based Responses**
+
+Designed and implemented a simple chatbot using rule-based responses. Utilized if-else statements and pattern matching techniques to identify user queries and provide appropriate responses. This project provided a foundational understanding of natural language processing and conversation flow.
+
+
+
+
+
+
+**Tic-Tac-Toe AI**
+
+Developed an AI agent to play Tic-Tac-Toe against a human player, implementing the Minimax algorithm with Alpha-Beta Pruning to ensure an unbeatable opponent. The project enhanced understanding of game theory and search algorithms.
+
+
+
+
+**Movie Recommendation System**
+
+Developed a movie recommendation system that suggests films to users based on their viewing preferences. Implemented collaborative filtering to leverage user ratings and content-based filtering to analyze movie attributes for generating personalized recommendations.
+
+
 
 
 
